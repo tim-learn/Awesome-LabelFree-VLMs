@@ -1,4 +1,13 @@
-# Adapting Vision-Language Models Without Labels: A Comprehensive Survey
+# Adapting Vision-Language Models Without Labels: A Comprehensive Survey [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+<div align="center">
+<a href="https://arxiv.org/abs/2508.00000"><img src="https://img.shields.io/badge/arXiv-2508.00000-b31b1b.svg" alt="arXiv Badge"/></a>
+<a href="https://github.com/tim-learn/awesome-unsupervised-learning-VLMs/stargazers"><img src="https://img.shields.io/github/stars/tim-learn/awesome-unsupervised-learning-VLMs" alt="Stars Badge"/></a>
+<a href="https://github.com/tim-learn/awesome-unsupervised-learning-VLMs/network/members"><img src="https://img.shields.io/github/forks/tim-learn/awesome-unsupervised-learning-VLMs" alt="Forks Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readm/pulls"><img src="https://img.shields.io/github/issues-pr/tim-learn/awesome-unsupervised-learning-VLMs" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/tim-learn/awesome-unsupervised-learning-VLMs/issues"><img src="https://img.shields.io/github/issues/tim-learn/awesome-unsupervised-learning-VLMs" alt="Issues Badge"/></a>
+<a href="https://github.com/tim-learn/awesome-unsupervised-learning-VLMs/blob/main/LICENSE"><img src="https://img.shields.io/github/license/tim-learn/awesome-unsupervised-learning-VLMs" alt="License Badge"/></a>
+</div>
 
 This repository collects research papers on **unsupervised learning methods with VLMs**. The repository will be continuously updated to track the latest work in the community. 
 
