@@ -22,7 +22,7 @@
     * Qi Qian, Yuanhong Xu, Juhua Hu
 * `NeurIPS-2023` **[SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/file/cdd0640218a27e9e2c0e52e324e25db0-Paper-Conference.pdf)**
     * Xiaosong Ma, Jie Zhang, Song Guo, Wenchao Xu
-* `Internationa Journal of Applied Earth Observation and Geoinformation-2023` **[RS-CLIP: Zero shot remote sensing scene classification via contrastive vision-language supervision](https://www.sciencedirect.com/science/article/pii/S1569843223003217)** [![Star](https://img.shields.io/github/stars/lx709/RS-CLIP.svg?style=social&label=Star)](https://github.com/lx709/RS-CLIP)
+* `Internationa Journal of Applied Earth Observation and Geoinformation-2023` **[RS-CLIP: Zero Shot Remote Sensing Scene Classification via Contrastive Vision-Language Supervision](https://www.sciencedirect.com/science/article/pii/S1569843223003217)** [![Star](https://img.shields.io/github/stars/lx709/RS-CLIP.svg?style=social&label=Star)](https://github.com/lx709/RS-CLIP)
     * Xiang Li, Congcong Wen, Yuan Hu, Nan Zhou
 * `arXiv 2023` **[Prompt Ensemble Self-training for Open-Vocabulary Domain Adaptation](https://arxiv.org/pdf/2306.16658)**
     * Jiaxing Huang, Jingyi Zhang, Han Qiu, Sheng Jin, Shijian Lu
