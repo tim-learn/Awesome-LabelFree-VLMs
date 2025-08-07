@@ -2,7 +2,7 @@
 
 * `ICML-2021` **[Learning Transferable Visual Models From Natural Language Supervision](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)** [![Star](https://img.shields.io/github/stars/openai/CLIP.svg?style=social&label=Star)](https://github.com/openai/CLIP)
     * Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever
-* `ECCV-2022` **[Extract free dense labels from clip](https://arxiv.org/pdf/2112.01071)** [![Star](https://img.shields.io/github/stars/chongzhou96/MaskCLIP.svg?style=social&label=Star)](https://github.com/chongzhou96/MaskCLIP)
+* `ECCV-2022` **[Extract Free Dense Labels from CLIP](https://arxiv.org/pdf/2112.01071)** [![Star](https://img.shields.io/github/stars/chongzhou96/MaskCLIP.svg?style=social&label=Star)](https://github.com/chongzhou96/MaskCLIP)
     * Chong Zhou, Chen Change Loy, Bo Dai
 * `NeurIPS-2022` **[ReCo: Retrieve and Co-segment for Zero-shot Transfer](https://arxiv.org/pdf/2206.07045)** [![Star](https://img.shields.io/github/stars/NoelShin/reco.svg?style=social&label=Star)](https://github.com/NoelShin/reco)
     * Gyungin Shin, Weidi Xie, Samuel Albanie
@@ -18,7 +18,7 @@
     * Zachary Novack, Julian McAuley, Zachary Chase Lipton, Saurabh Garg
 * `ICMLW-2023` **[A ChatGPT Aided Explainable Framework for Zero-Shot Medical Image Diagnosis](https://arxiv.org/pdf/2307.01981)**
     * Jiaxiang Liu, Tianxiang Hu, Yan Zhang, Xiaotang Gai, Yang Feng, Zuozhu Liu
-* `ICCV-2023` **[What does a platypus look like? Generating customized prompts for zero-shot image classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Pratt_What_Does_a_Platypus_Look_Like_Generating_Customized_Prompts_for_ICCV_2023_paper.pdf)** [![Star](https://img.shields.io/github/stars/sarahpratt/CuPL.svg?style=social&label=Star)](https://github.com/sarahpratt/CuPL)
+* `ICCV-2023` **[What Does a Platypus Look Like? Generating Customized Prompts for Zero-Shot Image Classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Pratt_What_Does_a_Platypus_Look_Like_Generating_Customized_Prompts_for_ICCV_2023_paper.pdf)** [![Star](https://img.shields.io/github/stars/sarahpratt/CuPL.svg?style=social&label=Star)](https://github.com/sarahpratt/CuPL)
     * Sarah Pratt, Ian Covert, Rosanne Liu, Ali Farhadi
 * `ICCV-2023` **[SuS-X: Training-Free Name-Only Transfer of Vision-Language Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Udandarao_SuS-X_Training-Free_Name-Only_Transfer_of_Vision-Language_Models_ICCV_2023_paper.pdf)** [![Star](https://img.shields.io/github/stars/vishaal27/SuS-X.svg?style=social&label=Star)](https://github.com/vishaal27/SuS-X)
     * Vishaal Udandarao, Ankush Gupta, Samuel Albanie
@@ -50,7 +50,7 @@
     * Xixi Liu, Christopher Zach
 * `ICPR-2024` **[Text-Enhanced Zero-Shot Action Recognition: A Training-Free Approach](https://arxiv.org/pdf/2408.16412)** [![Star](https://img.shields.io/github/stars/MaXDL4Phys/tear.svg?style=social&label=Star)](https://github.com/MaXDL4Phys/tear)
     * Massimo Bosetti, Shibingfeng Zhang, Bendetta Liberatori, Giacomo Zara, Elisa Ricci, Paolo Rota
-* `ACMFAccT-2024` **[Embracing Diversity: Interpretable Zero-shot classification beyond one vector per class](https://dl.acm.org/doi/pdf/10.1145/3630106.3659039)**
+* `ACMFAccT-2024` **[Embracing Diversity: Interpretable Zero-shot Classification Beyond One Vector Per Class](https://dl.acm.org/doi/pdf/10.1145/3630106.3659039)**
     * Mazda Moayeri, Michael Rabbat, Mark Ibrahim, Diane Bouchacourt
 * `arXiv 2024` **[Training-Free Semantic Segmentation via LLM-Supervision](https://arxiv.org/pdf/2404.00701)**
     * Wenfang Sun, Yingjun Du, Gaowen Liu, Ramana Kompella, Cees GM Snoek
@@ -66,5 +66,5 @@
     * Shijian Wang, Linxin Song, Ryotaro Shimizu, Masayuki Goto, Hanqian Wu
 * `PR-2025` **[A Closer Look at the Explainability of Contrastive Language-Image Pre-training](https://arxiv.org/pdf/2304.05653)** [![Star](https://img.shields.io/github/stars/xmed-lab/CLIP_Surgery.svg?style=social&label=Star)](https://github.com/xmed-lab/CLIP_Surgery)
     * Yi Li, Hualiang Wang, Yiqun Duan, Jiheng Zhang, Xiaomeng Li
-* `arXiv 2025` **[Making Better Mistakes in CLIP-Based Zero-Shot Classification with Hierarchy-Aware Language Prompts](https://arxiv.org/pdf/2503.02248)** [![Star](https://img.shields.io/github/stars/ltong1130ztr/HAPrompts.svg?style=social&label=Star)](https://github.com/ltong1130ztr/HAPrompts)
+* `arXiv 2025` **[Making Better Mistakes in CLIP-based Zero-Shot Classification with Hierarchy-Aware Language Prompts](https://arxiv.org/pdf/2503.02248)** [![Star](https://img.shields.io/github/stars/ltong1130ztr/HAPrompts.svg?style=social&label=Star)](https://github.com/ltong1130ztr/HAPrompts)
     * Tong Liang, Jim Davis
