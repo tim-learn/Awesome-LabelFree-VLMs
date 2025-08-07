@@ -1,21 +1,21 @@
-# Adapting Vision-Language Models Without Labels: A Comprehensive Survey <span><a href="https://arxiv.org/abs/2508.00000"><img src="https://img.shields.io/badge/arXiv-2508.00000-b31b1b.svg" alt="arXiv Badge"/></a></span> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Adapting Vision-Language Models Without Labels: A Comprehensive Survey <span><a href="https://arxiv.org/abs/2508.xxxx"><img src="https://img.shields.io/badge/arXiv-2508.xxxx-b31b1b.svg" alt="arXiv Badge"/></a></span> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 This repository collects research papers on **unsupervised learning methods with VLMs**. The repository will be continuously updated to track the latest work in the community. 
 
-**Keywords: Vision Language Model, xx, xxx**
+**Keywords: unsupervised learning, test-time adaptation, vision-language models.**
 
 ## :fire: Update
-- [Aug 6th, 2025] xxx
+- [Aug 7, 2025] Just finished the manuscript.
 
 ## :page_with_curl: Overview
-![avatar](task-taxonomy-fig.png)
+![avatar](assets/taxonomy.png)
 
 ## :sparkles: Contents
-- [:spades: Data Free Transfer](cat/data_free_transfer.md)
-- [:hearts: Unsupervised Domain Transfer](cat/unsupervised_domain_transfer.md)
-- [:clubs: Episodic Test-Time Adaptation](cat/episodic_test_time_adaptation.md)
-- [:diamonds: Online Test-Time Adaptation](cat/online_test_time_adaptation.md)
+- [Data Free Transfer](assets/data_free_transfer.md)
+- [Unsupervised Domain Transfer](assets/unsupervised_domain_transfer.md)
+- [Episodic Test-Time Adaptation](assets/episodic_test_time_adaptation.md)
+- [Online Test-Time Adaptation](assets/online_test_time_adaptation.md)
 
 ## 🤝 Citation
 Please visit [Adapting Vision-Language Models Without Labels: A Comprehensive Survey](link) for more details and comprehensive information. If you find our paper and repo helpful, please consider citing it as follows:
