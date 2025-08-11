@@ -76,6 +76,8 @@
     * Jiawang Bai, Zhihe Lu, Xin Li, Zeyu Xiao, Xinchao Wang
 * `PR-2025` **[CTPT: Continual Test-time Prompt Tuning for Vision-Language Models](https://www.sciencedirect.com/science/article/pii/S0031320324010513)**
     * Fan Wang, Zhongyi Han, Xingbo Liu, Yilong Yin, Xin Gao
+* `BMVC-2025` **[ETTA: Efficient Test-Time Adaptation for Vision-Language Models through Dynamic Embedding Updates](https://arxiv.org/abs/2508.05898)**
+    * Hamidreza Dastmalchi, Aijun An, Ali cheraghian
 * `arXiv 2025` **[Online Gaussian Test-Time Adaptation of Vision-Language Models](https://arxiv.org/pdf/2501.04352)** [![Star](https://img.shields.io/github/stars/cfuchs2023/OGA.svg?style=social&label=Star)](https://github.com/cfuchs2023/OGA)
     * Clément Fuchs, Maxime Zanella, Christophe De Vleeschouwer
 * `arXiv 2025` **[Space Rotation with Basis Transformation for Training-free Test-Time Adaptation](https://arxiv.org/pdf/2502.19946)**
