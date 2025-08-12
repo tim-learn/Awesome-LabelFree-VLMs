@@ -98,3 +98,5 @@
     * Haochen Han, Alex Jinpeng Wang, Fangming Liu
 * `Openreview 2025` **[Active Test Time Prompt Learning in Vision-Language Models](https://openreview.net/pdf?id=pdzHpQbGrn)**
     * Dhruv Sarkar, Aprameyo Chakrabartty, Bibhudatta Bhanja, Abir Das
+* `arXiv 2025` **[Adaptive Cache Enhancement for Test-Time Adaptation of Vision-Language Models](https://arxiv.org/pdf/2508.07570)** 
+    * Khanh-Binh Nguyen, Phuoc-Nguyen Bui, Hyunseung Choo, Duc Thanh Nguyen
