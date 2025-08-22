@@ -100,3 +100,5 @@
     * Dhruv Sarkar, Aprameyo Chakrabartty, Bibhudatta Bhanja, Abir Das
 * `arXiv 2025` **[Adaptive Cache Enhancement for Test-Time Adaptation of Vision-Language Models](https://arxiv.org/pdf/2508.07570)** 
     * Khanh-Binh Nguyen, Phuoc-Nguyen Bui, Hyunseung Choo, Duc Thanh Nguyen
+* `arXiv 2025` **[Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment](https://arxiv.org/pdf/2508.15568)** 
+    * Youjia Zhang, Youngeun Kim, Young-Geun Choi, Hongyeob Kim, Huiling Liu, Sungeun Hong
