@@ -62,6 +62,8 @@
     * Hankyeol Lee, Gawon Seo, Wonseok Choi, Geunyoung Jung, Kyungwoo Song, Jiyoung Jung
 * `AAAI-2025` **[Learning to Prompt with Text Only Supervision for Vision-Language Models](https://arxiv.org/pdf/2401.02418)** [![Star](https://img.shields.io/github/stars/muzairkhattak/ProText.svg?style=social&label=Star)](https://github.com/muzairkhattak/ProText)
     * Muhammad Uzair Khattak, Muhammad Ferjad Naeem, Muzammal Naseer, Luc Van Gool, Federico Tombari
+* `ICCV-2025` **[Plug-in Feedback Self-adaptive Attention in CLIP for Training-free Open-Vocabulary Segmentation](https://arxiv.org/pdf/2508.20265)** [![Star](https://img.shields.io/github/stars/chi-chi-zx/FSA.svg?style=social&label=Star)](https://github.com/chi-chi-zx/FSA)
+    * Zhixiang Chi, Yanan Wu, Li Gu, Huan Liu, Ziqiang Wang, Yang Zhang, Yang Wang, Konstantinos N. Plataniotis
 * `ICME-2025` **[Attributed Synthetic Data Generation for Zero-shot Domain-specific Image Classification](https://arxiv.org/pdf/2504.04510)**
     * Shijian Wang, Linxin Song, Ryotaro Shimizu, Masayuki Goto, Hanqian Wu
 * `PR-2025` **[A Closer Look at the Explainability of Contrastive Language-Image Pre-training](https://arxiv.org/pdf/2304.05653)** [![Star](https://img.shields.io/github/stars/xmed-lab/CLIP_Surgery.svg?style=social&label=Star)](https://github.com/xmed-lab/CLIP_Surgery)
