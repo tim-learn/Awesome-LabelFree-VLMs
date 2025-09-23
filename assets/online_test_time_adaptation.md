@@ -102,5 +102,5 @@
     * Khanh-Binh Nguyen, Phuoc-Nguyen Bui, Hyunseung Choo, Duc Thanh Nguyen
 * `arXiv 2025` **[Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment](https://arxiv.org/pdf/2508.15568)** 
     * Youjia Zhang, Youngeun Kim, Young-Geun Choi, Hongyeob Kim, Huiling Liu, Sungeun Hong
-* `arXiv 2025` **[COLA: Context-aware Language-driven Test-time Adaptation](https://arxiv.org/pdf/2509.17598)** [![Star](https://img.shields.io/github/stars/hhc1997/NEAT.svg?style=social&label=Star)](https://github.com/NUDT-Bai-Group/COLA-TTA)
+* `arXiv 2025` **[COLA: Context-aware Language-driven Test-time Adaptation](https://arxiv.org/pdf/2509.17598)** [![Star](https://img.shields.io/github/stars/NUDT-Bai-Group/COLA-TTA.svg?style=social&label=Star)](https://github.com/NUDT-Bai-Group/COLA-TTA)
     * Aiming Zhang, Tianyuan Yu, Liang Bai, Jun Tang, Yanming Guo, Yirun Ruan, Yun Zhou, Zhihe Lu
