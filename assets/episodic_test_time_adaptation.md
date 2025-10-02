@@ -126,3 +126,5 @@
     * Xiaozhen Qiao, Peng Huang, Jiakang Yuan, Xianda Guo, Bowen Ye, Zhe Sun, Xuelong Li
 * `arXiv 2025` **[Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models](https://arxiv.org/pdf/2501.18864)**
     * Aodi Li, Liansheng Zhuang, Xiao Long, Minghong Yao, Shafei Wang
+* `arXiv 2025` **[VLOD-TTA: Test-Time Adaptation of Vision-Language Object Detectors](https://arxiv.org/pdf/2510.00458)**
+    * Atif Belal, Heitor R. Medeiros, Marco Pedersoli, Eric Granger
