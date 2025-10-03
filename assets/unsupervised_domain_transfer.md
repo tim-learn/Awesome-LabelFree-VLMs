@@ -72,3 +72,5 @@
     * Oindrila Saha, Logan Lawrence, Grant Van Horn, Subhransu Maji
 * `arXiv 2025` **[OTFusion: Bridging Vision-only and Vision-Language Models via Optimal Transport for Transductive Zero-Shot Learning](https://arxiv.org/pdf/2506.13723)**
     * Qiyu Xu, Wenyang Chen, Zhanxuan Hu, Huafeng Li, Yonghang Tai
+* `arXiv 2025` **[microCLIP: Unsupervised CLIP Adaptation via Coarse-Fine Token Fusion for Fine-Grained Image Classification](https://arxiv.org/pdf/2510.02270)** [![Star](https://img.shields.io/github/stars/sathiiii/microCLIP.svg?style=social&label=Star)](https://github.com/sathiiii/microCLIP)
+    * Sathira Silva, Eman Ali, Chetan Arora, Muhammad Haris Khan
