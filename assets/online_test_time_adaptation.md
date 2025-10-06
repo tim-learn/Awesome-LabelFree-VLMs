@@ -104,3 +104,5 @@
     * Youjia Zhang, Youngeun Kim, Young-Geun Choi, Hongyeob Kim, Huiling Liu, Sungeun Hong
 * `arXiv 2025` **[COLA: Context-aware Language-driven Test-time Adaptation](https://arxiv.org/pdf/2509.17598)** [![Star](https://img.shields.io/github/stars/NUDT-Bai-Group/COLA-TTA.svg?style=social&label=Star)](https://github.com/NUDT-Bai-Group/COLA-TTA)
     * Aiming Zhang, Tianyuan Yu, Liang Bai, Jun Tang, Yanming Guo, Yirun Ruan, Yun Zhou, Zhihe Lu
+* `arXiv 2025` **[Bayesian Test-time Adaptation for Object Recognition and Detection with Vision-language Models](https://arxiv.org/pdf/2510.02750)** 
+    * Lihua Zhou, Mao Ye, Shuaifeng Li, Nianxin Li, Jinlin Wu, Xiatian Zhu, Lei Deng, Hongbin Liu, Jiebo Luo, Zhen Lei
