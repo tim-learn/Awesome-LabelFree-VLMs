@@ -106,3 +106,5 @@
     * Aiming Zhang, Tianyuan Yu, Liang Bai, Jun Tang, Yanming Guo, Yirun Ruan, Yun Zhou, Zhihe Lu
 * `arXiv 2025` **[Bayesian Test-time Adaptation for Object Recognition and Detection with Vision-language Models](https://arxiv.org/pdf/2510.02750)** 
     * Lihua Zhou, Mao Ye, Shuaifeng Li, Nianxin Li, Jinlin Wu, Xiatian Zhu, Lei Deng, Hongbin Liu, Jiebo Luo, Zhen Lei
+* `arXiv 2025` **[TTRV: Test-Time Reinforcement Learning for Vision Language Models](https://arxiv.org/pdf/2510.06783)** 
+    * Akshit Singh, Shyam Marjit, Wei Lin, Paul Gavrikov, Serena Yeung-Levy, Hilde Kuehne, Rogerio Feris, Sivan Doveh, James Glass, M. Jehanzeb Mirza
