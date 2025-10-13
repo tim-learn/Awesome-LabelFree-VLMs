@@ -128,3 +128,5 @@
     * Aodi Li, Liansheng Zhuang, Xiao Long, Minghong Yao, Shafei Wang
 * `arXiv 2025` **[VLOD-TTA: Test-Time Adaptation of Vision-Language Object Detectors](https://arxiv.org/pdf/2510.00458)**
     * Atif Belal, Heitor R. Medeiros, Marco Pedersoli, Eric Granger
+* `arXiv 2025` **[D-TPT: Dimensional Entropy Maximization for Calibrating Test-Time Prompt Tuning in Vision-Language Models](https://arxiv.org/pdf/2510.09473)**
+    * Jisu Han, Wonjun Hwang
