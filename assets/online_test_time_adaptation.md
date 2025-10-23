@@ -108,3 +108,5 @@
     * Lihua Zhou, Mao Ye, Shuaifeng Li, Nianxin Li, Jinlin Wu, Xiatian Zhu, Lei Deng, Hongbin Liu, Jiebo Luo, Zhen Lei
 * `arXiv 2025` **[TTRV: Test-Time Reinforcement Learning for Vision Language Models](https://arxiv.org/pdf/2510.06783)** [![Star](https://img.shields.io/github/stars/Akshit21112002/TTRV.svg?style=social&label=Star)](https://github.com/Akshit21112002/TTRV)
     * Akshit Singh, Shyam Marjit, Wei Lin, Paul Gavrikov, Serena Yeung-Levy, Hilde Kuehne, Rogerio Feris, Sivan Doveh, James Glass, M. Jehanzeb Mirza
+* `arXiv 2025` **[Class-Aware Prototype Learning with Negative Contrast for Test-Time Adaptation of Vision-Language Models](https://arxiv.org/pdf/2510.19802)** 
+    * Xiaozhen Qiao, Jingkai Zhao, Yuqiu Jiang, Xianda Guo, Zhe Sun, Hongyuan Zhang, Xuelong Li
