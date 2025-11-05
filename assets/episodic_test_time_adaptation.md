@@ -130,3 +130,5 @@
     * Atif Belal, Heitor R. Medeiros, Marco Pedersoli, Eric Granger
 * `arXiv 2025` **[D-TPT: Dimensional Entropy Maximization for Calibrating Test-Time Prompt Tuning in Vision-Language Models](https://arxiv.org/pdf/2510.09473)**
     * Jisu Han, Wonjun Hwang
+* `arXiv 2025` **[A-TPT: Angular Diversity Calibration Properties for Test-Time Prompt Tuning of Vision-Language Models](https://arxiv.org/pdf/2510.26441)**
+    * Shihab Aaqil Ahamed, Udaya S.K.P. Miriya Thanthrige, Ranga Rodrigo, Muhammad Haris Khan
