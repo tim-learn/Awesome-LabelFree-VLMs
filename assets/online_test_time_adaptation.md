@@ -112,3 +112,6 @@
     * Xiaozhen Qiao, Jingkai Zhao, Yuqiu Jiang, Xianda Guo, Zhe Sun, Hongyuan Zhang, Xuelong Li
 * `AAAI 2026` **[Panda: Test-Time Adaptation with Negative Data Augmentation](https://arxiv.org/pdf/2511.10481)** [![Star](https://img.shields.io/github/stars/ruxideng/Panda.svg?style=social&label=Star)](https://github.com/ruxideng/Panda)
     * Ruxi Deng, Wenxuan Bao, Tianxin Wei, Jingrui He
+* `AAAI 2026` **[Adapt-As-You-Walk Through the Clouds: Training-Free Online Test-Time Adaptation of 3D Vision-Language Foundation Models](https://arxiv.org/pdf/2511.15311)** [![Star](https://img.shields.io/github/stars/Mehran-TAM/Uni-Adapter.svg?style=social&label=Star)](https://github.com/Mehran-TAM/Uni-Adapter)
+    * Mehran Tamjidi, Hamidreza Dastmalchi, Mohammadreza Alimoradijazi, Ali Cheraghian, Aijun An, Morteza Saberi
+
