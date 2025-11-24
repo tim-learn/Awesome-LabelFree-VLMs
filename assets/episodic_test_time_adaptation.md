@@ -132,3 +132,5 @@
     * Jisu Han, Wonjun Hwang
 * `arXiv 2025` **[A-TPT: Angular Diversity Calibration Properties for Test-Time Prompt Tuning of Vision-Language Models](https://arxiv.org/pdf/2510.26441)**
     * Shihab Aaqil Ahamed, Udaya S.K.P. Miriya Thanthrige, Ranga Rodrigo, Muhammad Haris Khan
+* `arXiv 2025` **[ATAC: Augmentation-Based Test-Time Adversarial Correction for CLIP](https://arxiv.org/pdf/2511.17362)**
+    * Linxiang Su, András Balogh
