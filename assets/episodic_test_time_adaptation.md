@@ -134,3 +134,5 @@
     * Shihab Aaqil Ahamed, Udaya S.K.P. Miriya Thanthrige, Ranga Rodrigo, Muhammad Haris Khan
 * `arXiv 2025` **[ATAC: Augmentation-Based Test-Time Adversarial Correction for CLIP](https://arxiv.org/pdf/2511.17362)**
     * Linxiang Su, András Balogh
+* `arXiv 2026` **[SoC: Semantic Orthogonal Calibration for Test-Time Prompt Tuning](https://arxiv.org/pdf/2601.08617)**
+    * Leo Fillioux, Omprakash Chakraborty, Ismail Ben Ayed, Paul-Henry Cournède, Stergios Christodoulidis, Maria Vakalopoulou, Jose Dolz
