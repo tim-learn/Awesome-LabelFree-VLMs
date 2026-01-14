@@ -114,4 +114,6 @@
     * Ruxi Deng, Wenxuan Bao, Tianxin Wei, Jingrui He
 * `AAAI 2026` **[Adapt-As-You-Walk Through the Clouds: Training-Free Online Test-Time Adaptation of 3D Vision-Language Foundation Models](https://arxiv.org/pdf/2511.15311)** [![Star](https://img.shields.io/github/stars/Mehran-TAM/Uni-Adapter.svg?style=social&label=Star)](https://github.com/Mehran-TAM/Uni-Adapter)
     * Mehran Tamjidi, Hamidreza Dastmalchi, Mohammadreza Alimoradijazi, Ali Cheraghian, Aijun An, Morteza Saberi
+* `arXiv 2026` **[Subspace Alignment for Vision-Language Model Test-time Adaptation](https://arxiv.org/pdf/2601.08139)** 
+    * Zhichen Zeng, Wenxuan Bao, Xiao Lin, Ruizhong Qiu, Tianxin Wei, Xuying Ning, Yuchen Yan, Chen Luo, Monica Xiao Cheng, Jingrui He, Hanghang Tong
 
