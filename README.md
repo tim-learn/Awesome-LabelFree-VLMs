@@ -30,6 +30,7 @@ Please visit [Adapting Vision-Language Models Without Labels: A Comprehensive Su
 
 ## :collision: Selected Papers from Premier AI/ML Conferences
 
+* `TPAMI-2026` **[Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models](https://arxiv.org/pdf/2501.18592)** [![Star](https://img.shields.io/github/stars/donghao51/Awesome-Multimodal-Adaptation.svg?style=social&label=Star)](https://github.com/donghao51/Awesome-Multimodal-Adaptation) ![](https://img.shields.io/badge/Survey-4G8M54) 
 * `ICCV-2025` **[FLOSS: Free Lunch in Open-vocabulary Semantic Segmentation](https://arxiv.org/pdf/2504.10487)** [![Star](https://img.shields.io/github/stars/yasserben/FLOSS.svg?style=social&label=Star)](https://github.com/yasserben/FLOSS) ![](https://img.shields.io/badge/Unsupervised-4C8C57) 
 * `ICCV-2025` **[Generate, Transduct, Adapt: Iterative Transduction with VLMs](https://arxiv.org/pdf/2501.06031)** ![](https://img.shields.io/badge/Unsupervised-4C8C57) 
 * `ICCV-2025` **[BATCLIP: Bimodal Online Test-Time Adaptation for CLIP](https://arxiv.org/pdf/2412.02837)** [![Star](https://img.shields.io/github/stars/sarthaxxxxx/BATCLIP.svg?style=social&label=Star)](https://github.com/sarthaxxxxx/BATCLIP) ![](https://img.shields.io/badge/Online-A14C4C) 
