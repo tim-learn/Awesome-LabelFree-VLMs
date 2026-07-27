@@ -1,4 +1,4 @@
-# Adapting Vision-Language Models Without Labels: A Comprehensive Survey <span><a href="https://arxiv.org/abs/2508.05547"><img src="https://img.shields.io/badge/arXiv-2508.05547-b31b1b.svg" alt="arXiv Badge"/></a></span> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Adapting Vision-Language Models Without Labels: A Comprehensive Survey (IJCV 2026) <span><a href="https://arxiv.org/abs/2508.05547"><img src="https://img.shields.io/badge/arXiv-2508.05547-b31b1b.svg" alt="arXiv Badge"/></a></span> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 This repository collects research papers on **unsupervised learning methods with VLMs**. The repository will be continuously updated to track the latest work in the community. 
